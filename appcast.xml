@@ -17,7 +17,7 @@
       <enclosure
         url="https://github.com/jsw513/BananaSplit/releases/download/v1.2.1/BananaSplit-v1.2.1-macOS.zip"
         sparkle:version="1.2.1"
-        sparkle:shortVersionString="1.2.1"
+        sparkle:shortVersionString="1201"
         sparkle:edSignature="dWxZ8Lt3iTzTqNG27pfCp09uRUyT77lNa9oPVAK2TebFOR1q7kLEf8dafMq82tQLLnD7z9gCORFOarFeBO3zCg=="
         length="33510104"
         type="application/octet-stream"/>
