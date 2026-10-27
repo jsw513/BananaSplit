@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0"
      xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
@@ -5,5 +6,22 @@
     <title>BananaSplit Updates</title>
     <description>Official BananaSplit macOS update feed</description>
     <language>en</language>
+
+    <item>
+      <title>BananaSplit 1.2.1</title>
+      <description>
+        Smart Suggestions fixes, black chrome interface,
+        and animated banana mascot.
+      </description>
+      <pubDate>Tue, 27 Oct 2026 16:30:00 -0400</pubDate>
+
+      <enclosure
+        url="https://github.com/jsw513/BananaSplit/releases/download/v1.2.1/BananaSplit-v1.2.1-macOS.zip"
+        sparkle:version="1.2.1"
+        sparkle:shortVersionString="1.2.1"
+        sparkle:edSignature="dWxZ8Lt3iTzTqNG27pfCp09uRUyT77lNa9oPVAK2TebFOR1q7kLEf8dafMq82tQLLnD7z9gCORFOarFeBO3zCg=="
+        length="33510104"
+        type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
