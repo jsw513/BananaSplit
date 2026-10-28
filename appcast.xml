@@ -2,9 +2,25 @@
 <rss version="2.0"
      xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>BananaSplit Updates</title>
-    <description>Official BananaSplit macOS update feed</description>
+    <title>Folder Folio Updates</title>
+    <description>Official Folder Folio macOS update feed</description>
     <language>en</language>
+
+    <item>
+      <title>Folder Folio 1.2.2</title>
+      <description>
+        Folder Folio rebrand and refreshed interface.
+      </description>
+      <pubDate>Wed, 28 Oct 2026 09:41:00 -0400</pubDate>
+
+      <enclosure
+        url="https://github.com/jsw513/BananaSplit/releases/download/v1.2.2/FolderFolio-v1.2.2-macOS.zip"
+        sparkle:version="1202"
+        sparkle:shortVersionString="1.2.2"
+        sparkle:edSignature="ZXcy6hdwGT+Wza2cAUVekJJDHJEtnmWoM+K34caeU1NOBYzTlWIyYZm7RTBQaYK6zzXRifBAjlpH9c3hXLSuBA=="
+        length="33501086"
+        type="application/octet-stream"/>
+    </item>
 
     <item>
       <title>BananaSplit 1.2.1</title>
